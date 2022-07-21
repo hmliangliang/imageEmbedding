@@ -1,0 +1,2 @@
+# imageEmbedding
+使用预训练模型获得注册玩家图像的embedding，可用于多模态推荐模型开发
